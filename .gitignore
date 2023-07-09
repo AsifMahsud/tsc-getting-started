@@ -1,0 +1,23 @@
+# Ignore build output
+/dist
+/out
+/build
+
+# Ignore TypeScript source maps
+*.js.map
+
+# Ignore editor and IDE files
+.vscode
+
+# Ignore node_modules directory
+/node_modules
+
+# Ignore generated files
+*.log
+*.log.*
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+.DS_Store
